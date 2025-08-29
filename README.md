@@ -10,7 +10,7 @@
                                                                                                                 
         github account. 2FA secured, very secure.
 
-      o/           o/         \o         o_        \o/  
+      o/           o/         \o         o_         \o/  
      /|           /|           |         |           |  
-     / \         / \          / \       / \         / \ 
+     / \          / \         / \       / \         / \ 
 ```                                                         
